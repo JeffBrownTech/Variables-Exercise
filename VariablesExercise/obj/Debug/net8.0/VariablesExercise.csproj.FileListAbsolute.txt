@@ -1,0 +1,15 @@
+C:\gh\Variables-Exercise\VariablesExercise\bin\Debug\net8.0\VariablesExercise.exe
+C:\gh\Variables-Exercise\VariablesExercise\bin\Debug\net8.0\VariablesExercise.deps.json
+C:\gh\Variables-Exercise\VariablesExercise\bin\Debug\net8.0\VariablesExercise.runtimeconfig.json
+C:\gh\Variables-Exercise\VariablesExercise\bin\Debug\net8.0\VariablesExercise.dll
+C:\gh\Variables-Exercise\VariablesExercise\bin\Debug\net8.0\VariablesExercise.pdb
+C:\gh\Variables-Exercise\VariablesExercise\obj\Debug\net8.0\VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\gh\Variables-Exercise\VariablesExercise\obj\Debug\net8.0\VariablesExercise.AssemblyInfoInputs.cache
+C:\gh\Variables-Exercise\VariablesExercise\obj\Debug\net8.0\VariablesExercise.AssemblyInfo.cs
+C:\gh\Variables-Exercise\VariablesExercise\obj\Debug\net8.0\VariablesExercise.csproj.CoreCompileInputs.cache
+C:\gh\Variables-Exercise\VariablesExercise\obj\Debug\net8.0\VariablesExercise.sourcelink.json
+C:\gh\Variables-Exercise\VariablesExercise\obj\Debug\net8.0\VariablesExercise.dll
+C:\gh\Variables-Exercise\VariablesExercise\obj\Debug\net8.0\refint\VariablesExercise.dll
+C:\gh\Variables-Exercise\VariablesExercise\obj\Debug\net8.0\VariablesExercise.pdb
+C:\gh\Variables-Exercise\VariablesExercise\obj\Debug\net8.0\VariablesExercise.genruntimeconfig.cache
+C:\gh\Variables-Exercise\VariablesExercise\obj\Debug\net8.0\ref\VariablesExercise.dll
